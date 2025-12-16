@@ -1,1 +1,2 @@
 learning devpos
+learned the steps involved in devops
