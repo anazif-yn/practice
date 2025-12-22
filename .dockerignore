@@ -1,0 +1,17 @@
+# Ignore these in Docker build
+.git
+.gitignore
+.vscode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.python
+env/
+venv/
+.venv/
+*.log
+Dockerfile*
+docker-compose*
+README.md
+jenkinsfile
